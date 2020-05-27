@@ -1,2 +1,2 @@
 # my_first_rep
-Primera clase de git
+This is a change on my readme
